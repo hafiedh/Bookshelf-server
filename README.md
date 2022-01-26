@@ -12,7 +12,7 @@ The BookShelf-API saves the book's datas in memory and haven't use any database,
 
 ## Setup
 ### Installation
-    git clone https://github.com/jordyf15/BookShelf-API-Dicoding-Beginner-BackEnd-Development-Project.git
+    git clone 
     npm install
 
 ### Scripts
