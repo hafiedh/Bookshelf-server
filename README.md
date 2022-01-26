@@ -9,7 +9,7 @@ BookShelf-API is an API that allows it users to do these following things:
 - Delete a book from the bookshelf
 
 ## Test Case
-![](app/src/main/assets/moviefragment.png?raw=true)
+![](test-case.png?raw=true)
 
 The BookShelf-API saves the book's datas in memory and haven't use any database, so it will lose it's data when the it restarted or shut down. This project is made in order to pass Dicoding's Beginner BackEnd Development Course.
 
